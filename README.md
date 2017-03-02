@@ -11,4 +11,5 @@ These are my solutions to the [Bioinformatics VI Course - Finding Mutations in D
 ### Requirements
 - Python 2.7+
 - Numpy
+- NetworkX
 - Numba (optional - improves efficiency for one of the solutions)
